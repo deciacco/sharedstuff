@@ -2,10 +2,10 @@
 //phpdoc -o HTML:frames:earthli -d "c:\Documents and Settings\ecilento\desktop\iatftpbackup\Iat" -t "\\Ws01\www\iatmgu.net\dev\ftpbackup\"
 
 /**
- * @author      Eugenio Cilento <eugenio@iatmgu.com>
+ * @author      Eugenio C. <eugenio@iatmgu.com>
  * @version     0.1 Alpha 2007.10.03
  * @package     Iat_Ftp_Backup
- * @copyright   Copyright (c) 2007, Eugenio Cilento, International Assurance of Tennessee
+ * @copyright   Copyright (c) 2007, Eugenio C., IAT, Inc.
  */
 
 /**
