@@ -3,7 +3,7 @@
  * @author Eugenio Cilento <eugenio@iatmgu.com>
  * @version 0.1 Alpha 2007.10.03
  * @package Iat_File_Virtual
- * @copyright Copyright (c) 2007, Eugenio Cilento, International Assurance of Tennessee
+ * @copyright Copyright (c) 2007, Eugenio C., IAT, Inc.
  */
 
 /**
